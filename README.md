@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tony-farias
-- 👀 I’m interested in finserv
+- 👀 I’m interested in finserv and data
 - 🌱 I’m currently learning terraform
 - 💞️ I’m looking to collaborate on ...
 - 📫 antonio.farias@databricks.com
