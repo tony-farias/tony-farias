@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tony-farias
 - 👀 I’m interested in finserv, energy, utilities and data
-- 🌱 I’m currently learning terraform
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on terraform and data visualization projects
 - 📫 antonio.farias@databricks.com
 
 <!---
